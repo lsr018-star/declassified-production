@@ -3,6 +3,8 @@
 One document. The whole operation: content, posting, growth, real money.
 I manage everything below. His taps are listed in §8 — nothing else.
 
+System repo (versioned, backed up): https://github.com/lsr018-star/declassified-production
+
 ## 1. The channel
 
 **DECLASSIFIED** — "Secrets they tried to bury — declassified daily."
